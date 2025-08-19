@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jash Nanda</h1>
 <h3 align="center">A critical thinking Software Developer</h3>
 
-- 🌱 I’m currently learning **Computer Architecture, Data Structures, Search Engine Optimization**
+- 🌱 I’m currently learning **Artificial Intelligence & Machine Learning Algorithms, Data Warehousing**
 
 - 📫 How to reach me **jashnanda1122@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s94T3fWIGKpsReqowb26564ZoXLz9HJG/view?usp=drive_link](https://drive.google.com/file/d/1s94T3fWIGKpsReqowb26564ZoXLz9HJG/view?usp=drive_link)
 
 - ⚡ Fun fact **I love gardening**
 
@@ -49,3 +47,11 @@
 
 - [**Face Detection Software with Raspberry Pi**](https://github.com/jashnanda/Face-Detection-with-Raspberry-Pi)  
   This project is a implementation of raspberry pi capabilities with a camera module (1mp) and its related python libraries like OpenCV providing image processing capabilities. The general idea    is that the system matches detected faces in live time with the faces in its database, granting access if it matches. At the same time, it stores all entries.
+
+- [**CancerEase Research**](https://ijournals.in/wp-content/uploads/2022/09/4.IJSHRE-100904-Jash.pdf)  
+  CancerEase is a machine‑learning software that analyzes MRI scan data using three models—Neural Networks, Logistic Regression, and K‑Nearest Neighbors—selects the most accurate one, and uses     it  to classify breast cancer as malignant or benign. The neural network model proved most effective, achieving around 92.98% accuracy, suggesting strong potential for early breast cancer        detection.
+
+- [**Rapid Approach to Quantify the Industrial
+Pollution in The Water Bodies Using
+Machine Learning and Satellite Imaging**](https://ijournals.in/wp-content/uploads/2022/09/6.IJSHRE-100906-Jash.pdf)  
+  In this work, I developed a convolutional neural network (CNN) model to analyze satellite images and accurately detect water bodies in Pune with over 95% precision, classifying them as clean     or polluted through image processing. To validate these findings, I built a custom Arduino-based pH and TDS sensor device, creating a rapid and reliable framework for quantifying industrial      pollution in water bodies.
