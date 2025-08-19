@@ -47,18 +47,5 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- [**Hotel Revenue Optimization Tool**](https://github.com/yourusername/hotel-revenue-optimizer)  
-  📊 AI-driven pricing tool leveraging real-time market data for hotels.  
-  <img src="https://raw.githubusercontent.com/yourusername/hotel-revenue-optimizer/main/preview.png" alt="Hotel Revenue Optimizer Preview" width="400"/>
-
-- [**Financial Report Automation**](https://github.com/yourusername/financial-report-automation)  
-  ⚡ Automated daily financial reports across multiple PMS systems (Opera, LightSpeed, HotelKey).  
-  <img src="https://raw.githubusercontent.com/yourusername/financial-report-automation/main/preview.png" alt="Financial Report Automation Preview" width="400"/>
-
-- [**Client Relationship Portal**](https://github.com/yourusername/client-portal)  
-  💼 Portal used at a bank for generating reports and improving commercial client services.  
-  <img src="https://raw.githubusercontent.com/yourusername/client-portal/main/preview.png" alt="Client Portal Preview" width="400"/>
-
-- [**2D Shooter Game**](https://github.com/yourusername/2d-shooter-game)  
-  🎮 A Unity-built Android game with Google Play Console compatibility.  
-  <img src="https://raw.githubusercontent.com/yourusername/2d-shooter-game/main/preview.gif" alt="2D Shooter Game Preview" width="400"/>
+- [**Face Detection Software with Raspberry Pi**](https://github.com/jashnanda/Face-Detection-with-Raspberry-Pi)  
+  This project is a implementation of raspberry pi capabilities with a camera module (1mp) and its related python libraries like OpenCV providing image processing capabilities. The general idea    is that the system matches detected faces in live time with the faces in its database, granting access if it matches. At the same time, it stores all entries.
