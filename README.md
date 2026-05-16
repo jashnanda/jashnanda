@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence & Machine Learning Algorithms, Data Warehousing**
 
-- 📫 How to reach me **jashnanda1122@gmail.com**
+- 📫 How to reach me **jashnanda2@gmail.com**
 
 - ⚡ Fun fact **I love gardening**
 
