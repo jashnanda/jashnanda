@@ -45,7 +45,7 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-- [**RAG based Learning Assistant**]((https://github.com/jashnanda/-a-rag-based-learning-assistant-for-the-missing-semester)  
+- [**RAG based Learning Assistant**](https://github.com/jashnanda/-a-rag-based-learning-assistant-for-the-missing-semester)  
  A RAG-based learning assistant for The Missing Semester of Your CS Education. Ask questions about the course content and get answers grounded in the official materials.
 
 - [**Face Detection Software with Raspberry Pi**](https://github.com/jashnanda/Face-Detection-with-Raspberry-Pi)  
