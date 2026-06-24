@@ -45,6 +45,9 @@
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+- [**Face Detection Software with Raspberry Pi**]([https://github.com/jashnanda/Face-Detection-with-Raspberry-Pi](https://github.com/jashnanda/-a-rag-based-learning-assistant-for-the-missing-semester))  
+ A RAG-based learning assistant for The Missing Semester of Your CS Education. Ask questions about the course content and get answers grounded in the official materials.
+
 - [**Face Detection Software with Raspberry Pi**](https://github.com/jashnanda/Face-Detection-with-Raspberry-Pi)  
   This project is a implementation of raspberry pi capabilities with a camera module (1mp) and its related python libraries like OpenCV providing image processing capabilities. The general idea    is that the system matches detected faces in live time with the faces in its database, granting access if it matches. At the same time, it stores all entries.
 
